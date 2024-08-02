@@ -1,0 +1,1 @@
+creating a landing page project to test HTML, CSS and other skills. 

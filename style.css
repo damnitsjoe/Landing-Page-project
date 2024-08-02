@@ -1,0 +1,25 @@
+nav {
+    display: flex; 
+    justify-content: space-between;
+}
+
+header {
+    border: 2px solid red; 
+    background-color: #1f2937; 
+    color: white; 
+    padding-left: 20px;
+}
+
+ul {
+    display: flex; 
+    list-style-type: none;
+    gap: 10px; 
+    align-items: center;
+}
+
+li {
+    color: gray;
+    padding-right: 5vw; 
+}
+
+
