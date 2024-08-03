@@ -34,6 +34,15 @@ li {
     padding-right: 5vw; 
 }
 
+a {
+    color:white;
+    text-decoration: none;
+}
+
+a:active {
+    color: green;
+}
+
 .mid-top {
     display: flex; 
     flex-direction: row;
@@ -147,4 +156,10 @@ blockquote {
     border-radius: 5px;
     height: 20px; 
     width: auto; 
+}
+
+.footer {
+    color: white; 
+    text-align: center;
+    font-size: 14px;
 }
